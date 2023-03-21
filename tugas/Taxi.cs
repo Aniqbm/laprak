@@ -23,11 +23,11 @@ namespace tugas
         }
         public void PickUpPassanger()
         {
-            Console.WriteLine("\nDito sedang memjemput penumpang");
+            Console.WriteLine("\naniq sedang memjemput penumpang");
         }
         public void DropOffPasanger()
         {
-            Console.WriteLine("\nDito sudah mengantar penumpang");
+            Console.WriteLine("aniq sudah mengantar penumpang");
         }
     }
 }

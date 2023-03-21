@@ -14,7 +14,7 @@ namespace tugas
             Taxi taxi = new Taxi();
 
             //set nilai properties
-            taxi.DriverName = "dito ";
+            taxi.DriverName = "aniq";
             taxi.OnDuty = true;
             taxi.NumPassanger = 10;
             //pemanggilan method 
