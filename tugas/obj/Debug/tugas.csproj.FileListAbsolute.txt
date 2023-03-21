@@ -1,0 +1,6 @@
+D:\INFORMATIKA\semester 2\Pemograman\tugas\tugas\bin\Debug\tugas.exe.config
+D:\INFORMATIKA\semester 2\Pemograman\tugas\tugas\bin\Debug\tugas.exe
+D:\INFORMATIKA\semester 2\Pemograman\tugas\tugas\bin\Debug\tugas.pdb
+D:\INFORMATIKA\semester 2\Pemograman\tugas\tugas\obj\Debug\tugas.csprojResolveAssemblyReference.cache
+D:\INFORMATIKA\semester 2\Pemograman\tugas\tugas\obj\Debug\tugas.exe
+D:\INFORMATIKA\semester 2\Pemograman\tugas\tugas\obj\Debug\tugas.pdb
