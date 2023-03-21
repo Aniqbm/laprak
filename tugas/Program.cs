@@ -17,13 +17,10 @@ namespace tugas
             taxi.DriverName = "dito ";
             taxi.OnDuty = true;
             taxi.NumPassanger = 10;
-
             //pemanggilan method 
             taxi.TaxiInfo();
             taxi.PickUpPassanger();
             taxi.DropOffPasanger();
-
-
             Console.ReadKey();
         }
     }
